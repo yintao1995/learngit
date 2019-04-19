@@ -1,1 +1,1 @@
-Python is a program language.
+Python is the best program language.
